@@ -4,4 +4,3 @@ streamlit
 sklearn
 matplotlib
 seaborn
-numpy
